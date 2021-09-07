@@ -1,0 +1,30 @@
+h1{
+    color:tomato;
+}
+*{
+    border:solid;
+}
+.start {
+background-color:	#FFA500;
+display:flex;
+justify-content: space-between;
+}
+.flexseal {
+    background-color:#8ce2f2;
+display:flex;
+flex-wrap: wrap;
+justify-content:space-evenly;
+}
+.flextape {
+    background: #32cd32;
+display:flex;
+justify-content:space-around;
+}
+.footer{
+background-color:#FFD700;
+display:flex;
+justify-content:flex-end;
+}
+p{
+text-align: center;
+}
